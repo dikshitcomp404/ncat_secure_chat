@@ -34,9 +34,9 @@ echo "Installation complete."
 # Tell user next steps
 if $PATH_UPDATED; then
     echo
-    echo "✅ ~/.local/bin has been added to your PATH."
+    echo "~/.local/bin has been added to your PATH."
     echo "Please close and reopen your terminal (or run: source ~/.bashrc)"
 else
     echo
-    echo "✅ You can now run: nchat-host or nchat-client from anywhere."
+    echo "You can now run: nchat-host or nchat-client from anywhere."
 fi
