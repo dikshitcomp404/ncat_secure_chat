@@ -2,11 +2,11 @@ Linux LAN Chat
 
 --------------
 
-1\. Place nchat-host and nchat-client in a folder.
+1\. Unzip and place linux-build-0.1 in a desired folder.
 
-2\. Make them executable: chmod +x nchat-host nchat-client
+2\. Run `sh set-command.sh` or `bash set-command.sh` (this will make the scripts usable directly from the terminal as commands)
 
-3\. Run:
+3\. Run to use:
 
 &nbsp;  ./nchat-host   # to host
 
