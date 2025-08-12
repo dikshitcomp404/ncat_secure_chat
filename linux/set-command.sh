@@ -25,9 +25,9 @@ fi
 
 # Copy scripts from current dir to ~/.local/bin
 echo "Installing nchat scripts..."
-cp ./nchat-host "$TARGET_DIR"/
-cp ./nchat-client "$TARGET_DIR"/
-chmod +x "$TARGET_DIR"/nchat-host "$TARGET_DIR"/nchat-client
+cp ./nchat-host.sh "$TARGET_DIR"/
+cp ./nchat-connect.sh "$TARGET_DIR"/
+chmod +x "$TARGET_DIR"/nchat-host.sh "$TARGET_DIR"/nchat-connect.sh
 
 echo "Installation complete."
 
