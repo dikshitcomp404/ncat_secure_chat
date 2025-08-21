@@ -4,7 +4,7 @@ Linux LAN Chat
 
 1\. Unzip and place linux-build-0.1 in a desired folder.
 
-2\. Run `sh set-command.sh` or `bash set-command.sh` (this will make the scripts usable directly from the terminal as commands)
+2\. Run `install.sh`
 
 3\. Run to use:
 
